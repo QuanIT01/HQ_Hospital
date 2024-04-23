@@ -171,11 +171,28 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\BenhAnsController.cs" />
+    <Compile Include="Areas\Admin\Controllers\HoiDapsController.cs" />
+    <Compile Include="Areas\Admin\Controllers\HomeAdminController.cs" />
+    <Compile Include="Areas\Admin\Controllers\KhoasController.cs" />
+    <Compile Include="Areas\Admin\Controllers\LichKhamsController.cs" />
+    <Compile Include="Areas\Admin\Controllers\NguoiDungsController.cs" />
+    <Compile Include="Areas\Admin\Controllers\QuanTrisController.cs" />
+    <Compile Include="Areas\Admin\Controllers\TintucsController.cs" />
     <Compile Include="Common\Bien.cs" />
     <Compile Include="Common\LKSave.cs" />
+    <Compile Include="Controllers\BacsiController.cs" />
+    <Compile Include="Controllers\BenhNhanController.cs" />
+    <Compile Include="Controllers\CaKhamController.cs" />
+    <Compile Include="Controllers\HoidapController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LichkhamController.cs" />
+    <Compile Include="Controllers\TinTucController.cs" />
     <Compile Include="DAO\LichKham.cs" />
     <Compile Include="DAO\ListHoiDap.cs" />
     <Compile Include="fonts\NguoidungController.cs" />
+    <Compile Include="Controllers\ChuyenGiaBacSiController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -2351,13 +2368,15 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_LayoutUser.cshtml" />
+    <Content Include="Views\Home\Dangnhap.cshtml" />
+    <Content Include="Views\Home\Dangky.cshtml" />
+    <Content Include="Views\Home\Trangchu.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="images\files\" />
     <Folder Include="images\flash\" />
     <Folder Include="images\_thumbs\Files\" />

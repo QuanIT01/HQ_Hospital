@@ -728,7 +728,3 @@ C:\Users\ASUS\Downloads\DatLichKham_DuyDong\WebAppYte-master\WebAppYte-master\We
 C:\Users\ASUS\Downloads\DatLichKham_DuyDong\WebAppYte-master\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.csproj.CopyComplete
 C:\Users\ASUS\Downloads\DatLichKham_DuyDong\WebAppYte-master\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.dll
 C:\Users\ASUS\Downloads\DatLichKham_DuyDong\WebAppYte-master\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.pdb
-D:\TAI-LIEU-HOC-TAP\DoAnTotNghiep\Git\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.csproj.AssemblyReference.cache
-D:\TAI-LIEU-HOC-TAP\DoAnTotNghiep\Git\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.csproj.CoreCompileInputs.cache
-D:\TAI-LIEU-HOC-TAP\DoAnTotNghiep\Git\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.dll
-D:\TAI-LIEU-HOC-TAP\DoAnTotNghiep\Git\WebAppYte-master\WebAppYte\obj\Debug\WebAppYte.pdb
