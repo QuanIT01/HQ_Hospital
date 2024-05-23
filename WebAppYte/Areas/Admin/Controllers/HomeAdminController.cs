@@ -8,6 +8,15 @@ namespace WebAppYte.Areas.Admin.Controllers
 {
     public class HomeAdminController : Controller
     {
-        
+        // GET: Admin/HomeAdmin
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult DangXuatAd()
+        {
+            Session["userAdmin"] = null;
+            return RedirectToAction("Index", "HomeAdmin");
+        }
     }
 }
